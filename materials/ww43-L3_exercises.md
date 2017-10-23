@@ -41,9 +41,9 @@ Trouble shooting:
   * what could be wrong?
   * come up with 3 test you would perform to help you find the problem
 
-4. Assume pinging from PC1 to PC3 now works.
+4. Assume pinging from PC1 to PC2 now works.
 
-5. Pinging from PC3 to PC2 doesn't work.
+5. Pinging from PC4 to PC2 doesn't work.
   * what could be wrong?
   * come up with 3 test you would perform to help you find the problem
 
